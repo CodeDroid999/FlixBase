@@ -8,10 +8,10 @@ function App() {
         <Router>
           <Header />
             <Routes>
-                <Route index element={<h1>Error Page</h1>}></Route>
-                <Route path="movie/:id" element={<h1>Error Page</h1>}></Route>
-                <Route path="movies/:type" element={<h1>Error Page</h1>}></Route>
-                <Route path="/*" element={<h1>Error Page</h1>}></Route>
+                <Route index element={<span>Home Page</span>}></Route>
+                <Route path="movie/:id" element={<span>Movie Page</span>}></Route>
+                <Route path="movies/:type" element={<span>Movie list Page</span>}></Route>
+                <Route path="/*" element={<span>Error Page</span>}></Route>
             </Routes>
         </Router>
     </div>
