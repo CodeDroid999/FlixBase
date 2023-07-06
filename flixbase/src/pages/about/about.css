@@ -17,7 +17,7 @@
     flex-direction: column;
     width: 100%;
     justify-content: flex-end;
-    align-items: center;
+    align-items: left;
     background-image: linear-gradient(rgb(0,0,0,0), rgb(0,0,0,1));
     opacity: 1;
     transition: opacity .3s;
@@ -49,5 +49,12 @@
     margin-bottom: 0.25rem;
     display: flex;
     text-align: left;
-    width: 50%;
+    align-content:left;
+    width: 70%;
+}
+
+.about__card{
+    margin:2rem;
+    text-align:left;
+    font-size:larger ;
 }
