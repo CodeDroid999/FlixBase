@@ -93,8 +93,8 @@ const About = () => {
         <div className="about__card">
           <div className="posterImage__title">The Team_____</div>
           <p>John Mwega -<Link to="https://github.com/CodeDroid999" style={{'text-decoration':'none'}}> GitHub </Link> </p>
-          <p>Lola Smith - GitHub </p>
-          <p>Jelil Fasasi - GitHub </p>
+          <p>Lola Ola - GitHub </p>
+          <p>Jelil Dumbah- GitHub </p>
         </div>
         <div className="about__card">
           <div className="posterImage__title">Source_____</div>
