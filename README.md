@@ -120,11 +120,6 @@ Sitemap for FlixBase:
    - Terms of Service
    - DMCA Policy
 
-6. Blog
-   - Latest Articles
-   - Categories
-   - Tags
-
 HIGH-LEVEL WEB APP ARCHITECTURE FOR FLIXBASE:
 
 1. User Interface (UI) Layer:
