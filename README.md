@@ -1,5 +1,6 @@
 ### FlixBase
 
+Project is live at <a href="https://flixxbase.netlify.app/">Flixxbase</a>
 MVP Specification for FlixBase:	
 Components:
 FlixBase is a web application that provides a platform for users to search and access a vast library of movies and TV shows. The application architecture consists of various components that work together to deliver a seamless user experience. Here is a breakdown of each component and its role within the FlixBase system:
