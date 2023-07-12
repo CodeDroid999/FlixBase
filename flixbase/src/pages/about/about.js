@@ -70,11 +70,11 @@ const About = () => {
         </Carousel>
         <div className="about__card">
           <div className="posterImage__title">Timeline_____</div>
-          Flixbase is a Portfolio Project for Holberton School, a place where we
+          Flixbase is a Portfolio Project for ALX school, a place where we
           have honed our skills as aspiring software engineers. This project has
           been an integral part of our learning journey, allowing us to apply
           the knowledge and techniques we've gained throughout our coursework.
-          We are grateful to Holberton School for providing us with the
+          We are grateful to ALX for providing us with the
           opportunity to work on meaningful projects like Flixbase, empowering
           us to explore our creativity and showcase our abilities.
         </div>
